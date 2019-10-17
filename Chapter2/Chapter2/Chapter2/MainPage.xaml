@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter2"
+             x:Class="Chapter2.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Static Page" x:Name="cmdStaticPage" Clicked="CmdStaticPage_Clicked"/>
+        <Button Text="Array Page" x:Name="cmdArrayPage" Clicked="CmdArrayPage_Clicked"/>
+        <Button Text="Reference Page" x:Name="cmdReferencePage" Clicked="CmdReferencePage_Clicked"/>
+        <Button Text="Constructors Page" x:Name="cmdConstructorsPage" Clicked="CmdConstructorsPage_Clicked"/>
+        <Button Text="Property Values Page" x:Name="cmdPropertyValuesPage" Clicked="CmdPropertyValuesPage_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
