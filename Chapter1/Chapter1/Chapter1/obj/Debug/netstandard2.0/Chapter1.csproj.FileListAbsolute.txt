@@ -1,0 +1,13 @@
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\Chapter1.csprojAssemblyReference.cache
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\ContentPageExample.xaml.g.cs
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\Chapter1.csproj.CoreCompileInputs.cache
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\Chapter1.AssemblyInfoInputs.cache
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\Chapter1.AssemblyInfo.cs
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\Chapter1.dll
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\Chapter1.pdb
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\bin\Debug\netstandard2.0\Chapter1.deps.json
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\bin\Debug\netstandard2.0\Chapter1.dll
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\bin\Debug\netstandard2.0\Chapter1.pdb
+C:\Users\dothi\source\repos\Chapter1\Chapter1\Chapter1\obj\Debug\netstandard2.0\XamlC.stamp
