@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter3"
+             x:Class="Chapter3.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Button Text="StackLayout Horizontal" x:Name="cmdStackLayoutHorizontal" Clicked="CmdStackLayoutHorizontal_Clicked"/>
+            <Button Text="StackLayout Vertical" x:Name="cmdStackLayoutVertical" Clicked="CmdStackLayoutVertical_Clicked"/>
+            <Button Text="RelativeLayout" x:Name="cmdRelativeLayout" Clicked="CmdRelativeLayout_Clicked"/>
+            <Button Text="AbsoluteLayout" x:Name="cmdAbsoluteLayout" Clicked="CmdAbsoluteLayout_Clicked"/>
+            <Button Text="Grid" x:Name="cmdGrid" Clicked="CmdGrid_Clicked"/>
+            <Button Text="Grid Using GridUnitType.Absolute" x:Name="cmdGridUsingGridUnitTypeAbsolute" Clicked="CmdGridUsingGridUnitTypeAbsolute_Clicked"/>
+            <Button Text="Grid using GridUnitType.Star" x:Name="cmdGridUsingGridUnitTypeStar" Clicked="CmdGridUsingGridUnitTypeStar_Clicked"/>
+            <Button Text="FlexLayout" x:Name="cmdFlexLayout" Clicked="CmdFlexLayout_Clicked"/>
+            <Button Text="ContentView" x:Name="cmdContentView" Clicked="CmdContentView_Clicked"/>
+            <Button Text="Frame" x:Name="cmdFrame" Clicked="CmdFrame_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
