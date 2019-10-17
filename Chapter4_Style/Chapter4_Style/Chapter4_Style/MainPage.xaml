@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter4_Style"
+             x:Class="Chapter4_Style.MainPage">
+    <ScrollView>
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Feedback Page" x:Name="cmdFeedbackPage" Clicked="CmdFeedbackPage_Clicked"/>
+        <Button Text="Static Resources Page" x:Name="cmdStaticResourcesPage" Clicked="CmdStaticResourcesPage_Clicked"/>
+        <Button Text="Dynamic Resources Page" x:Name="cmdDynamicResourcesPag" Clicked="CmdDynamicResourcesPag_Clicked"/>
+        <Button Text="Explicit Style Page" x:Name="cmdExplicitStylePage" Clicked="CmdExplicitStylePage_Clicked"/>
+        <Button Text="Implicit Style Page" x:Name="cmdImplicitStylePage" Clicked="CmdImplicitStylePage_Clicked"/>
+        <Button Text="Overriding Styles Page" x:Name="cmdOverridingStylesPage" Clicked="CmdOverridingStylesPage_Clicked"/>
+        <Button Text="Button Styles With Resources Page" x:Name="cmdButtonStylesPage" Clicked="ButtonStylesPage_Clicked"/>
+        <Button Text="Button Styles With Static Inheritance Page" x:Name="cmdButtonStylesWithStaticInheritancePage" Clicked="CmdButtonStylesWithStaticInheritancePage_Clicked"/>
+        <Button Text="Button Styles With Dynamic Inheritance Page" x:Name="cmdButtonStylesWithDynamicInheritancePage" Clicked="CmdButtonStylesWithDynamicInheritancePage_Clicked"/>
+        <Button Text="Device Style Page" x:Name="cmdDeviceStylePage" Clicked="CmdDeviceStylePage_Clicked"/>
+        <Button Text="Dark Theme Page" x:Name="cmdDarkThemePage" Clicked="CmdDarkThemePage_Clicked"/>
+        <Button Text="Light Theme Page" x:Name="cmdLightThemePage" Clicked="CmdLightThemePage_Clicked"/>
+        <Button Text="Custom Dark Theme Page" x:Name="cmdCustomDarkThemePage" Clicked="CmdCustomDarkThemePage_Clicked"/>
+        <Button Text="CSS Page" x:Name="cmdCSSPage" Clicked="CmdCSSPage_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
+    
