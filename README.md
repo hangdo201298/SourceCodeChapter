@@ -1,5 +1,6 @@
-BTTH1_SourceCodeChapter_16520339
-Bài tập thực hành 1 - Lớp IE307.K11.1 - Lớp Thầy Khoa
+#SourceCodeChapter_16520339
+
+Bài tập thực hành - Lớp IE307.K11.1 - Lớp Thầy Khoa
 
 Repositories này chứa source code của các chương trong sách Building Xamarin.Forms Mobile Apps Using XAML
 
