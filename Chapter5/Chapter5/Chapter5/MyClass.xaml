@@ -1,0 +1,6 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+ xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ xmlns:my="clr-namespace:Chapter5"
+ x:Class="Chapter5.MyClass">
+    <my:MyControl/>
+</ContentPage>

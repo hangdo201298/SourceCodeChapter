@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj",
+      "projectUniqueName": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj",
       "projectName": "Chapter2",
-      "projectPath": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj",
+      "projectPath": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj",
       "packagesPath": "C:\\Users\\dothi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2\\obj\\",
+      "outputPath": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

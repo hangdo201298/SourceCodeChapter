@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2.iOS\\Chapter2.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2.iOS\\Chapter2.iOS.csproj",
       "projectName": "Chapter2.iOS",
-      "projectPath": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2.iOS\\Chapter2.iOS.csproj",
+      "projectPath": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2.iOS\\Chapter2.iOS.csproj",
       "packagesPath": "C:\\Users\\dothi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2.iOS\\obj\\",
+      "outputPath": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj": {
-              "projectPath": "C:\\Users\\dothi\\source\\repos\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj"
+            "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj": {
+              "projectPath": "C:\\Users\\dothi\\Desktop\\SourceCodeChapter\\Chapter2\\Chapter2\\Chapter2\\Chapter2.csproj"
             }
           }
         }
