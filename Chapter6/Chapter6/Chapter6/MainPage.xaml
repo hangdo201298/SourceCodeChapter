@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter6"
+             x:Class="Chapter6.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Button Text="List View Strings" x:Name="cmdListViewStrings" Clicked="CmdListViewStrings_Clicked"/>
+            <Button Text="List View Data Model" x:Name="cmdListViewDataModel" Clicked="CmdListViewDataModel_Clicked"/>
+            <Button Text="List View Image Cell" x:Name="cmdListViewImageCell" Clicked="CmdListViewImageCell_Clicked"/>
+            <Button Text="List View Custom" x:Name="cmdListViewCustom" Clicked="CmdListViewCustom_Clicked"/>
+            <Button Text="List View Custom With Image" x:Name="cmdListViewCustomWithImage" Clicked="CmdListViewCustomWithImage_Clicked"/>
+            <Button Text="List View Button" x:Name="cmdListViewButton" Clicked="CmdListViewButton_Clicked"/>
+            <Button Text="List View Context Action" x:Name="cmdListViewContextAction" Clicked="CmdListViewContextAction_Clicked"/>
+            <Button Text="List View Grouped" x:Name="cmdListViewGrouped" Clicked="CmdListViewGrouped_Clicked"/>
+            <Button Text="List View Grouped Template" x:Name="cmdListViewGroupedTemplate" Clicked="CmdListViewGroupedTemplate_Clicked"/>
+            <Button Text="List View Scroll" x:Name="cmdListViewScroll" Clicked="CmdListViewScroll_Clicked"/>
+            <Button Text="List View Performance" x:Name="cmdListViewPerformance" Clicked="CmdListViewPerformance_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
