@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Chapter7"
+             x:Class="Chapter7.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Button Text="Home Page" x:Name="cmdNavigationPage1" Clicked="CmdNavigationPage1_Clicked"/>
+            <Button Text="DropdownMenu" x:Name="cmdDropdownMenu" Clicked="CmdDropdownMenu_Clicked"/>
+            <Button Text="Alerts" x:Name="cmdAlerts" Clicked="CmdAlerts_Clicked"/>
+            <Button Text="PopupMenu" x:Name="cmdPopupMenu" Clicked="CmdPopupMenu_Clicked"/>
+            <Button Text="Properties Page" x:Name="cmdPropertiesPage" Clicked="CmdPropertiesPage_Clicked"/>
+            <Button Text="Drilldown ListView By Item" x:Name="cmdDrilldownListViewByItem" Clicked="CmdDrilldownListViewByItem_Clicked"/>
+            <Button Text="Drilldown ListView ByPage" x:Name="cmdDrilldownListViewByPage" Clicked="CmdDrilldownListViewByPage_Clicked"/>
+            <Button Text="Drilldown TableView" x:Name="cmdDrilldownTableView" Clicked="CmdDrilldownTableView_Clicked"/>
+            <Button Text="TabPage" x:Name="cmdTabPage" Clicked="CmdTabPage_Clicked"/>
+            <Button Text="TabPage Databound" x:Name="cmdTabPageDatabound" Clicked="CmdTabPageDatabound_Clicked"/>
+            <Button Text="Springboard" x:Name="cmdSpringboard" Clicked="CmdSpringboard_Clicked"/>
+            <Button Text="Carousel" x:Name="cmdCarousel" Clicked="CmdCarousel_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

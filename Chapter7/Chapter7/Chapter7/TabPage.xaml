@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:local="clr-namespace:Chapter7;assembly=Chapter7"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Chapter7.TabPage">
+    <TabbedPage.Children>
+        <local:NavigationPage1 />
+        <local:SecondPage />
+        <local:ThirdPage />
+    </TabbedPage.Children>
+</TabbedPage>
