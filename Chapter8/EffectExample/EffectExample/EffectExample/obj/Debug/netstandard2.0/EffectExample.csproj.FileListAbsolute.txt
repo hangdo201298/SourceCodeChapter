@@ -1,0 +1,14 @@
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\bin\Debug\netstandard2.0\EffectExample.deps.json
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\bin\Debug\netstandard2.0\EffectExample.dll
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\bin\Debug\netstandard2.0\EffectExample.pdb
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\EffectExample.csprojAssemblyReference.cache
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\TextValidatorEffectPage.xaml.g.cs
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\UsingAttachedPropertyPage.xaml.g.cs
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\EffectExample.csproj.CoreCompileInputs.cache
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\EffectExample.AssemblyInfoInputs.cache
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\EffectExample.AssemblyInfo.cs
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\EffectExample.dll
+C:\Users\dothi\source\repos\EffectExample\EffectExample\EffectExample\obj\Debug\netstandard2.0\EffectExample.pdb
