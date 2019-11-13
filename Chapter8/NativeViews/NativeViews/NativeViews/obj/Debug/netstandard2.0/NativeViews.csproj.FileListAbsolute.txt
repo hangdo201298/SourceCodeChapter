@@ -1,0 +1,14 @@
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\bin\Debug\netstandard2.0\NativeViews.deps.json
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\bin\Debug\netstandard2.0\NativeViews.dll
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\bin\Debug\netstandard2.0\NativeViews.pdb
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViews.csprojAssemblyReference.cache
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\FactoryMethodsPage.xaml.g.cs
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViewsExamplePage.xaml.g.cs
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViewsPage.xaml.g.cs
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViews.csproj.CoreCompileInputs.cache
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViews.AssemblyInfoInputs.cache
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViews.AssemblyInfo.cs
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViews.dll
+C:\Users\dothi\source\repos\NativeViews\NativeViews\NativeViews\obj\Debug\netstandard2.0\NativeViews.pdb
