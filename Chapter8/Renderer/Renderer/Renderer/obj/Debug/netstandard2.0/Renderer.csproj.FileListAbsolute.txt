@@ -1,0 +1,13 @@
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\bin\Debug\netstandard2.0\Renderer.deps.json
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\bin\Debug\netstandard2.0\Renderer.dll
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\bin\Debug\netstandard2.0\Renderer.pdb
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\Renderer.csproj.CoreCompileInputs.cache
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\Renderer.AssemblyInfoInputs.cache
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\Renderer.AssemblyInfo.cs
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\Renderer.dll
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\Renderer.pdb
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\Renderer.csprojAssemblyReference.cache
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\CustomButton.xaml.g.cs
+C:\Users\dothi\source\repos\Renderer\Renderer\Renderer\obj\Debug\netstandard2.0\CustomRendererExamplePage.xaml.g.cs
